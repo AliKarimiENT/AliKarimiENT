@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy soccer a lot :D
 
+
+[![My GitHub stats](https://github-readme-stats-AliKarimiENT.vercel.app/api?username=AliKarimiENT)](https://github.com/AliKarimiENT/github-readme-stats)
