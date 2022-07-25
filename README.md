@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy soccer a lot :D
 
 
-![My GitHub stats](https://github-readme-stats-AliKarimiENT.vercel.app/api?username=AliKarimiENT)
+[![Top Langs](https://github-readme-stats-one-topaz-92.vercel.app/api/top-langs/?username=AliKarimiENT&layout=compact)](https://github.com/AliKarimiENT/github-readme-stats)
