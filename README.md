@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 
 
 
-[![Readme Card](https://github-readme-stats-one-topaz-92.vercel.app/api/pin/?username=AliKarimiENT&repo=github-readme-stats)](https://github.com/AliKarimiENT/github-readme-stats)
+![My GitHub stats](https://github-readme-stats-one-topaz-92.vercel.app/api?username=AliKarimiENT&show_icons=true&theme=radical)
+
 
 
 
