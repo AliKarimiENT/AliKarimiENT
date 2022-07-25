@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats-one-topaz-92.vercel.app/api/top-langs/?username=AliKarimiENT&layout=compact)(https://github.com/AliKarimiENT/github-readme-stats)
+![Top Langs](https://github-readme-stats-one-topaz-92.vercel.app/api/top-langs/?username=AliKarimiENT&layout=compact&theme=dark)
