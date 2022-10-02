@@ -4,7 +4,7 @@ This is Ali
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Stellar DApp
 - 🌱 I’m currently learning Solidity and Blockchain concepts
 - 👯 I’m looking to collaborate on DApp with Flutter and Solidity
 - 💬 Ask me about Flutter 
